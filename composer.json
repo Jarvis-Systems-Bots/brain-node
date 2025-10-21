@@ -1,8 +1,8 @@
 {
-  "name": "bfg/jarvis-brain",
-  "description": "The Brain CLI Tool for Agent Management",
-  "keywords": ["mcp", "tool", "cli"],
-  "type": "library",
+  "name": "bfg/jarvis-brain-node",
+  "description": "The Brain Node for Agent Management",
+  "keywords": ["jarvis", "brain", "node"],
+  "type": "project",
   "version": "v0.0.1",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Brain\\": ""
+      "BrainNode\\": ""
     }
   },
   "require": {
