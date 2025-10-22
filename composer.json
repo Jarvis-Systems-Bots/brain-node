@@ -12,6 +12,10 @@
       "role": "Developer/Maintainer"
     }
   ],
+  "repositories": [{
+    "type": "path",
+    "url": "core"
+  }],
   "autoload": {
     "psr-4": {
       "BrainNode\\": ""
@@ -19,12 +23,6 @@
   },
   "require": {
     "php": "^8.2",
-    "illuminate/console": "^12.0",
-    "illuminate/database": "^12.0",
-    "illuminate/config": "^12.0",
-    "composer/composer": "^2.8",
-    "symfony/var-dumper": "^7.3",
-    "yosymfony/toml": "^1.0",
-    "bfg/dto": "^1.9"
+    "jarvis-brain/core": "^v0.0.1"
   }
 }

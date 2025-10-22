@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0ef631b42743eeb4eb8d6122a1529ff8",
+    "content-hash": "2f648d063c287737388a52a6a0d38a99",
     "packages": [
         {
             "name": "bfg/dto",
@@ -905,7 +905,7 @@
         },
         {
             "name": "illuminate/bus",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/bus.git",
@@ -958,7 +958,7 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
@@ -1017,7 +1017,7 @@
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -1063,7 +1063,7 @@
         },
         {
             "name": "illuminate/config",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/config.git",
@@ -1111,7 +1111,7 @@
         },
         {
             "name": "illuminate/console",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/console.git",
@@ -1177,7 +1177,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
@@ -1238,7 +1238,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -1286,16 +1286,16 @@
         },
         {
             "name": "illuminate/database",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/database.git",
-                "reference": "3ad07bda64019d18fc6fda97fec0b3b7cb6ecae1"
+                "reference": "5f663ea61a13c1776e3353aa9ef5153221f44374"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/database/zipball/3ad07bda64019d18fc6fda97fec0b3b7cb6ecae1",
-                "reference": "3ad07bda64019d18fc6fda97fec0b3b7cb6ecae1",
+                "url": "https://api.github.com/repos/illuminate/database/zipball/5f663ea61a13c1776e3353aa9ef5153221f44374",
+                "reference": "5f663ea61a13c1776e3353aa9ef5153221f44374",
                 "shasum": ""
             },
             "require": {
@@ -1353,11 +1353,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-10-10T13:33:40+00:00"
+            "time": "2025-10-20T21:28:57+00:00"
         },
         {
             "name": "illuminate/events",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/events.git",
@@ -1412,7 +1412,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
@@ -1479,7 +1479,7 @@
         },
         {
             "name": "illuminate/macroable",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -1525,7 +1525,7 @@
         },
         {
             "name": "illuminate/pipeline",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/pipeline.git",
@@ -1577,16 +1577,16 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
-                "reference": "89291f59ef6c170c00f10a41c566c49ee32ca09a"
+                "reference": "eefcefcf6edff2c986f746f10fad3da3e79a1223"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/illuminate/support/zipball/89291f59ef6c170c00f10a41c566c49ee32ca09a",
-                "reference": "89291f59ef6c170c00f10a41c566c49ee32ca09a",
+                "url": "https://api.github.com/repos/illuminate/support/zipball/eefcefcf6edff2c986f746f10fad3da3e79a1223",
+                "reference": "eefcefcf6edff2c986f746f10fad3da3e79a1223",
                 "shasum": ""
             },
             "require": {
@@ -1652,11 +1652,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-10-13T21:11:33+00:00"
+            "time": "2025-10-18T13:23:12+00:00"
         },
         {
             "name": "illuminate/view",
-            "version": "v12.34.0",
+            "version": "v12.35.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/view.git",
@@ -1707,6 +1707,56 @@
                 "source": "https://github.com/laravel/framework"
             },
             "time": "2025-10-04T23:32:04+00:00"
+        },
+        {
+            "name": "jarvis-brain/core",
+            "version": "v0.0.1",
+            "dist": {
+                "type": "path",
+                "url": "core",
+                "reference": "60cb820e4cda032b8b345b646e7961b1e058065d"
+            },
+            "require": {
+                "bfg/dto": "^1.9",
+                "composer/composer": "^2.8",
+                "illuminate/config": "^12.0",
+                "illuminate/console": "^12.0",
+                "illuminate/database": "^12.0",
+                "php": "^8.2",
+                "symfony/var-dumper": "^7.3",
+                "yosymfony/toml": "^1.0"
+            },
+            "bin": [
+                "bin/brain-core"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BrainCore\\": "src/"
+                },
+                "files": [
+                    "helpers.php"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Xsaven",
+                    "email": "xsaven@gmail.com",
+                    "role": "Developer/Maintainer"
+                }
+            ],
+            "description": "The Brain Core for Agent Management",
+            "keywords": [
+                "brain",
+                "core",
+                "jarvis"
+            ],
+            "transport-options": {
+                "relative": true
+            }
         },
         {
             "name": "justinrainbow/json-schema",
